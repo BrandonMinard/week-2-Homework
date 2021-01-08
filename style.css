@@ -4,3 +4,19 @@ body {
 .navbar{
     background-color: #4bbdb9;
 }
+.text-box{
+    background: white;
+    margin-top: 3em;
+}
+.header-text{
+    padding: 10px;
+    padding-bottom: 15px;
+    color: teal;
+    border-bottom: dotted black;
+}
+
+.img-of-me{
+    float:left;
+    padding-right:1.5em;
+    
+}
