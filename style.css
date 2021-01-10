@@ -1,21 +1,34 @@
 body {
     background-color: antiquewhite;
 }
+/* navbar colour */
 .navbar{
     background-color: #4bbdb9;
 }
+/* generic textbox for index.html/about page */
 .text-box{
     background: white;
     margin-top: 3em;
 }
+/* text box for contact for needed some padding at the bottom */
+.text-box1{
+    background: white;
+    margin-top: 3em;
+    padding-bottom: 10px;
+}
+/* general style for any header text */
 .header-text{
     padding: 10px;
     padding-bottom: 15px;
     color: teal;
     border-bottom: dotted black;
 }
-
+/* styling for image on about/index.html page */
 .img-of-me{
     float:left;
     padding-right:1.5em;
+}
+/* styling for images on portfolio page */
+.portfolio-image{
+    padding: 8px;
 }
